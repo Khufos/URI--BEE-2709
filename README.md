@@ -16,5 +16,6 @@ A entrada termina em EOF.
 ![Interface](https://github.com/Khufos/URI--BEE-2709/blob/main/Screenshot_5.png)
 
 
->Esse é o padrão carniça do URI pra pega varios valores de input e coloca dentro de lista 
+Site vai lhe ajuda a saber comando basicos para manipular inputs do URI Online Judge
+>https://medium.com/@urapython.community/python-no-uri-online-judge-entradas-e-sa%C3%ADdas-para-iniciantes-29d0a08979f1
 <img src="https://github.com/Khufos/URI--BEE-2709/blob/main/1_pRlbDPTsMqACcL5uW4-Lqw.png" width="600">
