@@ -11,7 +11,6 @@ while True:
             if k % s == 0:
                pos.append(v)
         total = sum(pos)
-        #array = [i for i in range(1, total + 1) if total % i == 0]
         for x in range(1, total  + 1):
             if total % x == 0:
                 f.append(x)    
